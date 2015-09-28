@@ -1,1 +1,1 @@
-# node_app_real_time_casa_do_codigo
+Implementação dos códigos apresentandos no livro "Aplicações web real-time com Node.js" (http://www.casadocodigo.com.br/products/livro-nodejs)
